@@ -1,0 +1,12 @@
+{
+    "database":{
+        "password":"root",
+        "dialect":"mysql",
+        "name":"empdb",
+        "host":"127.0.0.1",
+        "username":"root"
+
+         
+
+    }
+}
